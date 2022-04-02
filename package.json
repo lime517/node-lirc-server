@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lime517/node-lirc-server/issues"
   },
-  "homepage": "https://github.com/lime517/node-lirc-server#readme"
+  "homepage": "https://github.com/lime517/node-lirc-server#readme",
+  "dependencies": {
+    "lirc_node": "^0.0.4"
+  }
 }
